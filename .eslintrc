@@ -1,0 +1,6 @@
+{
+  "extends": "eslint-config-synacor",
+  "rules": {
+    "brace-style": ["error", "1tbs"]
+  }
+}
