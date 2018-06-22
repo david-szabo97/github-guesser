@@ -1,5 +1,7 @@
 # Github Guesser - A Starry Game
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/david-szabo97/github-guesser.svg)](https://greenkeeper.io/)
+
 A little game to pass your time and meanwhile find interesting repositories!
 
 **!WARNING!** The code is crap, don't blame me! Huge refactor is in progress.
