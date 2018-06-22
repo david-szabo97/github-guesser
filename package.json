@@ -18,10 +18,10 @@
   "devDependencies": {
     "copy-webpack-plugin": "^4.5.1",
     "eslint": "^4.9.0",
-    "eslint-config-synacor": "^2.0.2",
+    "eslint-config-synacor": "^3.0.1",
     "identity-obj-proxy": "^3.0.0",
     "if-env": "^1.0.0",
-    "jest": "^21.2.1",
+    "jest": "^23.1.0",
     "preact-cli": "^2.1.0",
     "preact-cli-sw-precache": "^1.0.3",
     "preact-render-spy": "^1.2.1"
